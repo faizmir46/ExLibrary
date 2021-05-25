@@ -1,0 +1,3 @@
+rootProject.name = "ExLibrary"
+include ':app'
+include ':myutility'
